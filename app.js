@@ -5,7 +5,7 @@ Materias con correlativas y aprobadas
 PDFs: static/materiales
 ═══════════════════════════════════════════════════════ */
 'use strict';
-const API = 'https://PortalUNAB.pythonanywhere.com/';
+const API = 'https://PortalUNAB.pythonanywhere.com';
 
 
 /* ══════════════════════════════════════════════════════
